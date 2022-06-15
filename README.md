@@ -16,7 +16,8 @@
 ![image](https://github.com/Ge1mer/GLED/blob/ee0b80c44101bbd6e6bcdfdf5b9b0f0cf2a0269a/PIR.jpg)
 
 Есть возможность установки стандартного ИК приемника.
-![image](https://github.com/Ge1mer/GLED/blob/ee0b80c44101bbd6e6bcdfdf5b9b0f0cf2a0269a/Irremote.png)
+
+![image](https://github.com/Ge1mer/GLED/blob/e34bfc5376526ff8f663d8fd78add955ae854fdf/Irreceiver.png)
 
 ## Варианты подключения платы:
 ### Без управления силовым питанием. 
